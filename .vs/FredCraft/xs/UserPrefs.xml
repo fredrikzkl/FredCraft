@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{70C7CCE0-8A1E-BE58-F3DC-EB654283B7E3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/World/Generators/HillGen.cs">
+    <Files>
+      <File FileName="Assets/World/WorldGenerator.cs" Line="24" Column="18" />
+      <File FileName="Assets/World/Generators/HillGen.cs" Line="1" Column="1" />
+      <File FileName="Assets/World/Generator.cs" Line="14" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FredCraft" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Player" expanded="True" />
+              <Node name="World" expanded="True">
+                <Node name="Generators" expanded="True">
+                  <Node name="HillGen.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="69bd5d20-8d95-4a94-9835-c5344bf4ffe0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
